@@ -4,19 +4,6 @@
 
 Este proyecto implementa un sistema de autenticación básico con un frontend en React y un backend en Express. Permite a los usuarios iniciar sesión con credenciales predefinidas y recibir un token JWT como respuesta.
 
-## Estructura del Proyecto
-
-├── backend/ # Servidor Express con API de autenticación
-│ ├── src/ # Código fuente del backend
-│ │ └── index.ts # Punto de entrada del servidor
-│ └── package.json # Dependencias del backend
-└── frontend/ # Aplicación React
-├── public/ # Archivos estáticos
-├── src/ # Código fuente del frontend
-│ ├── App.tsx # Componente principal con formulario de login
-│ └── ... # Otros archivos de la aplicación
-└── package.json # Dependencias del frontend
-
 ## Tecnologías Utilizadas
 
 ### Frontend
